@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">commonTipDialog</string>
+    <string name="mtb_ok">好的</string>
+    <string name="mtb_cancel">好的</string>
+</resources>

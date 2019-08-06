@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="mtb_color_1D212C">#FF1D212C</color>
+    <color name="mtb_color_331d212c">#331d212c</color>
+    <color name="mtb_color_6C6F75">#6C6F75</color>
+    <color name="mtb_color_FD2974">#FD2974</color>
+    <color name="mtb_color_4A4D56">#4A4D56</color>
+
+</resources>
